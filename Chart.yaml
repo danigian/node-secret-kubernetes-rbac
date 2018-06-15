@@ -1,0 +1,4 @@
+apiVersion: v1
+name: "node-secret-kubernetes-rbac"
+description: "A helm chart for node-secret-kubernetes-rbac"
+version: 0.1.0
